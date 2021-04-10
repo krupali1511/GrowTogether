@@ -1,0 +1,7 @@
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogether\bin\Debug\GrowTogether.dll.config
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogether\bin\Debug\GrowTogether.dll
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogether\bin\Debug\GrowTogether.pdb
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogether\obj\Debug\GrowTogether.csprojAssemblyReference.cache
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogether\obj\Debug\GrowTogether.csproj.CoreCompileInputs.cache
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogether\obj\Debug\GrowTogether.dll
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogether\obj\Debug\GrowTogether.pdb

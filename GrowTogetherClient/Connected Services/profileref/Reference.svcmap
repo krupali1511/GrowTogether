@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9a1b198f-ff88-4dc7-a76c-b15d3672626c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/UserProfileService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UserProfileService.xsd" MetadataType="Schema" ID="d4583301-7f27-4489-b960-fe723fced9bf" SourceId="1" SourceUrl="http://localhost:8000/UserProfileService?xsd=xsd3" />
+    <MetadataFile FileName="UserProfileService1.xsd" MetadataType="Schema" ID="13d8fb0b-d798-42d1-85ab-10536d22ae72" SourceId="1" SourceUrl="http://localhost:8000/UserProfileService?xsd=xsd2" />
+    <MetadataFile FileName="UserProfileService2.xsd" MetadataType="Schema" ID="be21d991-fa81-49be-8f14-7e3268ac8074" SourceId="1" SourceUrl="http://localhost:8000/UserProfileService?xsd=xsd1" />
+    <MetadataFile FileName="UserProfileService3.xsd" MetadataType="Schema" ID="a1a8e0c7-07e2-4ef4-9d7c-b31ee512d819" SourceId="1" SourceUrl="http://localhost:8000/UserProfileService?xsd=xsd0" />
+    <MetadataFile FileName="UserProfileService.wsdl" MetadataType="Wsdl" ID="708347ee-16a0-4672-bdfb-f39e6745459a" SourceId="1" SourceUrl="http://localhost:8000/UserProfileService?wsdl" />
+    <MetadataFile FileName="UserProfileService.disco" MetadataType="Disco" ID="f8548fb9-913a-4247-a6ee-5619a8b80dc0" SourceId="1" SourceUrl="http://localhost:8000/UserProfileService?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

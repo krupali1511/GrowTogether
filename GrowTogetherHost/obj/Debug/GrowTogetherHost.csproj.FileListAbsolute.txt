@@ -1,0 +1,11 @@
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\bin\Debug\GrowTogetherHost.exe.config
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\bin\Debug\GrowTogetherHost.exe
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\bin\Debug\GrowTogetherHost.pdb
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\bin\Debug\GrowTogether.dll
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\bin\Debug\GrowTogether.pdb
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\bin\Debug\GrowTogether.dll.config
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\obj\Debug\GrowTogetherHost.csprojAssemblyReference.cache
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\obj\Debug\GrowTogetherHost.csproj.CoreCompileInputs.cache
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\obj\Debug\GrowTogetherHost.csproj.CopyComplete
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\obj\Debug\GrowTogetherHost.exe
+E:\DDIT\SEM_6\SOC\GrowTogether\GrowTogetherHost\obj\Debug\GrowTogetherHost.pdb
